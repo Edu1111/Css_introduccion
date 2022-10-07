@@ -1,0 +1,20 @@
+*{
+    background-image:url(img/FFONDO.jpg);
+}
+
+.M-paragraph{
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.M-title{
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+    border-radius: 0%;
+    border-color: transparent;
+}
+
+.M-button{
+    font-family: 'Courier New', Courier, monospace;
+    background-color: burlywood;
+}
